@@ -1,0 +1,23 @@
+[
+    {
+        "email": "sahan@iamsahan.com",
+        "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar1.png",
+        "jobTitle": "UI/UX Engineer",
+        "contactNumber": "0711212123",
+        "name": "Sahan Amarsha"
+    },
+    {
+        "email": "john@iamsahan.com",
+        "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar2.png",
+        "jobTitle": "Quality Assurance Engineer",
+        "contactNumber": "0711212123",
+        "name": "John Doe"
+    }
+    {
+        "email": "kevin@iamsahan.com",
+        "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar3.png",
+        "jobTitle": "Software Engineer",
+        "contactNumber": "0711212123",
+        "name": "Kevin De Silva"
+    }
+]
