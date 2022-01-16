@@ -17,7 +17,7 @@ export class EmployeeService {
     return this.http.get<Employee[]>(`${this.apiServerUrl}/employee/all`);
   }
 
-  public addEmployee(employee: Employee): Observable<Employee> {
+  public addEmployee(employee: { jobTitle: any; imageUrl: any; name: any; contactNumber: any; email: number }): Observable<Employee> {
     return this.http.post<Employee>(`${this.apiServerUrl}/employee/add`, employee);
   }
 
